@@ -1,0 +1,15 @@
+/Users/Tugrul/Desktop/Repositories/PatikaDev/C#101/inheritance/bin/Debug/net6.0/inheritance
+/Users/Tugrul/Desktop/Repositories/PatikaDev/C#101/inheritance/bin/Debug/net6.0/inheritance.deps.json
+/Users/Tugrul/Desktop/Repositories/PatikaDev/C#101/inheritance/bin/Debug/net6.0/inheritance.runtimeconfig.json
+/Users/Tugrul/Desktop/Repositories/PatikaDev/C#101/inheritance/bin/Debug/net6.0/inheritance.dll
+/Users/Tugrul/Desktop/Repositories/PatikaDev/C#101/inheritance/bin/Debug/net6.0/ref/inheritance.dll
+/Users/Tugrul/Desktop/Repositories/PatikaDev/C#101/inheritance/bin/Debug/net6.0/inheritance.pdb
+/Users/Tugrul/Desktop/Repositories/PatikaDev/C#101/inheritance/obj/Debug/net6.0/inheritance.csproj.AssemblyReference.cache
+/Users/Tugrul/Desktop/Repositories/PatikaDev/C#101/inheritance/obj/Debug/net6.0/inheritance.GeneratedMSBuildEditorConfig.editorconfig
+/Users/Tugrul/Desktop/Repositories/PatikaDev/C#101/inheritance/obj/Debug/net6.0/inheritance.AssemblyInfoInputs.cache
+/Users/Tugrul/Desktop/Repositories/PatikaDev/C#101/inheritance/obj/Debug/net6.0/inheritance.AssemblyInfo.cs
+/Users/Tugrul/Desktop/Repositories/PatikaDev/C#101/inheritance/obj/Debug/net6.0/inheritance.csproj.CoreCompileInputs.cache
+/Users/Tugrul/Desktop/Repositories/PatikaDev/C#101/inheritance/obj/Debug/net6.0/inheritance.dll
+/Users/Tugrul/Desktop/Repositories/PatikaDev/C#101/inheritance/obj/Debug/net6.0/ref/inheritance.dll
+/Users/Tugrul/Desktop/Repositories/PatikaDev/C#101/inheritance/obj/Debug/net6.0/inheritance.pdb
+/Users/Tugrul/Desktop/Repositories/PatikaDev/C#101/inheritance/obj/Debug/net6.0/inheritance.genruntimeconfig.cache
